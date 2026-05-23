@@ -1,0 +1,6 @@
+{
+  "name": "ISKOncern",
+  "description": "An Incident Submission & Anonymous Concern Chat Desk for internal and external enterprise stakeholders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
